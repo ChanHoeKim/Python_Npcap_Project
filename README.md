@@ -1,4 +1,5 @@
 <img width="1026" height="790" alt="화면 캡처 2026-05-26 181111" src="https://github.com/user-attachments/assets/3e7d7762-54ac-4078-9e0e-8f3e740a9e69" />
+
 ## 1. 프로젝트 개요
 
 - **프로젝트명**: 거상 드랍 아이템 감지 프로그램
